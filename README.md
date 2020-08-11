@@ -1,3 +1,3 @@
 # OzoneSourceFiles
-Apologies, due to technical difficulties, I can't upload the entire project. I'm working on getting it up, check back soon.
+Due to the size of the entire project folder, I've decided to just upload the scripts to give an idea of some of the programming that went into this project. If you'd like to download the full project, I can share you a Google Drive link. 
 
